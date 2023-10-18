@@ -1,7 +1,7 @@
 {
   "name": "stream-events",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using EventSource and events streaming (chunk by chunk)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
